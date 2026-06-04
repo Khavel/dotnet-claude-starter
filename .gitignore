@@ -1,0 +1,22 @@
+## Build output
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+## Test / coverage
+TestResults/
+[Cc]overage*/
+*.coverage
+*.trx
+
+## IDEs
+.vs/
+*.user
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+## OS
+.DS_Store
+Thumbs.db

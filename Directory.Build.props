@@ -1,0 +1,10 @@
+<Project>
+  <!-- Conventions shared by every project. Agents: change defaults here, not per-csproj. -->
+  <PropertyGroup>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <!-- Warnings are bugs you haven't hit yet. CI and local builds both fail on them. -->
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+</Project>
