@@ -13,7 +13,7 @@ It is the free taste of **[Sharpyard](https://sharpyard.dev)** - the AI-agent-na
 ```
 CLAUDE.md            ← how an agent should work here (read this)
 AGENTS.md            ← the same, for Copilot / Cursor
-.mcp.json            ← curated MCP servers (filesystem, git, + a Roslyn-aware C# server)
+.mcp.json            ← curated MCP servers: filesystem + git (optional Roslyn C# server in docs/mcp.md)
 .editorconfig        ← C# conventions the agent follows
 src/Api/             ← a minimal API: in-memory Notes, organized by feature folder
 tests/Api.Tests/     ← contract tests that boot the real app and pin its behavior
