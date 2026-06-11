@@ -36,6 +36,8 @@ Then open the folder in Claude Code (or your agent of choice) and try:
 
 The agent reads `CLAUDE.md`, copies the `Notes/` feature pattern, keeps the tests green, and stays on rails. That is the whole idea.
 
+If this repo saves you time, star it - it helps other .NET devs find it.
+
 ## Why this exists
 
 AI agents perform best on small, well-documented, well-tested codebases with clear conventions. Most .NET repos give an agent none of that. This one is the opposite: a worked example of an **AI-native .NET** project you can copy the *shape* of.
@@ -46,9 +48,9 @@ See [`docs/add-a-feature-in-20-min.md`](docs/add-a-feature-in-20-min.md) for the
 
 This is the 1%. The full **[Sharpyard](https://sharpyard.dev)** kit is a production .NET 10 + Angular SaaS foundation on these same conventions: auth + RBAC + multi-tenancy, billing via Merchant-of-Record, transactional email, admin, background jobs, Docker, CI/CD - plus the tuned agent layer wired throughout.
 
-**→ [Join the Sharpyard waitlist](https://list.sharpyard.dev/?utm_source=github&utm_medium=readme&utm_campaign=dotnet-claude-starter)** to lock in founding-access pricing and early access to the full kit.
+**→ [Join the Sharpyard waitlist](https://sharpyard.dev/founding/?utm_source=github&utm_medium=readme&utm_campaign=dotnet-claude-starter)** to lock in the founding price of EUR 149 (launch EUR 249, first 100 founders) and early access to the full kit.
 
-*Lo mismo en español: un starter de .NET pensado para que lo maneje tu agente de IA. [Únete a la lista de espera](https://list.sharpyard.dev/?utm_source=github&utm_medium=readme&utm_campaign=dotnet-claude-starter&utm_content=es) para reservar el precio fundador.*
+*Lo mismo en español: un starter de .NET pensado para que lo maneje tu agente de IA. [Únete a la lista de espera](https://sharpyard.dev/founding/?utm_source=github&utm_medium=readme&utm_campaign=dotnet-claude-starter&utm_content=es) para reservar el precio fundador de 149 EUR (lanzamiento 249 EUR, primeros 100).*
 
 ## License
 
