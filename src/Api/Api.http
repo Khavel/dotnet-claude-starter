@@ -1,6 +1,21 @@
 @Api_HostAddress = http://localhost:5138
 
-GET {{Api_HostAddress}}/weatherforecast/
+GET {{Api_HostAddress}}/health
 Accept: application/json
+
+###
+
+GET {{Api_HostAddress}}/api/notes
+Accept: application/json
+
+###
+
+POST {{Api_HostAddress}}/api/notes
+Content-Type: application/json
+
+{
+  "title": "Try the agent loop",
+  "body": "Open this folder in Claude Code and add a priority field, test-first."
+}
 
 ###
