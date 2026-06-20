@@ -6,7 +6,9 @@
 
 A tiny, production-shaped **.NET 10 minimal API** built to be driven by an **AI coding agent** (Claude Code, Copilot, Cursor). The code is deliberately small. The point is the *operating layer* around it: a tuned [`CLAUDE.md`](CLAUDE.md), an [`AGENTS.md`](AGENTS.md), a curated [MCP config](.mcp.json), and contract tests that let an agent refactor without fear.
 
-It is the free taste of **[Sharpyard](https://sharpyard.dev)** - the AI-agent-native .NET + Angular SaaS starter kit. Same conventions, scaled up to auth, multi-tenancy, billing, and the rest.
+It is the free taste of **[Sharpyard](https://sharpyard.dev/founding/?utm_source=github&utm_medium=readme&utm_campaign=dotnet-claude-starter)** - the AI-agent-native .NET + Angular SaaS starter kit. Same conventions, scaled up to auth, multi-tenancy, billing, and the rest.
+
+> ⭐ **If this saves you time, [star the repo](https://github.com/Khavel/dotnet-claude-starter)** - it helps other .NET devs find it.
 
 ## What's inside
 
@@ -46,7 +48,7 @@ See [`docs/add-a-feature-in-20-min.md`](docs/add-a-feature-in-20-min.md) for the
 
 ## Want the whole thing?
 
-This is the 1%. The full **[Sharpyard](https://sharpyard.dev)** kit is a production .NET 10 + Angular SaaS foundation on these same conventions: auth + RBAC + multi-tenancy, billing via Merchant-of-Record, transactional email, admin, background jobs, Docker, CI/CD - plus the tuned agent layer wired throughout.
+This is the 1%. The full **[Sharpyard](https://sharpyard.dev/founding/?utm_source=github&utm_medium=readme&utm_campaign=dotnet-claude-starter)** kit is a production .NET 10 + Angular SaaS foundation on these same conventions: auth + RBAC + multi-tenancy, billing via Merchant-of-Record, transactional email, admin, background jobs, Docker, CI/CD - plus the tuned agent layer wired throughout.
 
 **→ [Join the Sharpyard waitlist](https://sharpyard.dev/founding/?utm_source=github&utm_medium=readme&utm_campaign=dotnet-claude-starter)** to lock in the founding price of EUR 149 (launch EUR 249, first 100 founders) and early access to the full kit.
 
